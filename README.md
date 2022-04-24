@@ -9,3 +9,5 @@ jupyter notebook
 pytorch 
 
 NetworkX
+
+Put data files in ./data
